@@ -1,0 +1,14 @@
+.button {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.button.button_theme_black {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.button.button.button_theme_yellow {
+    background-color: yellow;
+}
